@@ -23,16 +23,16 @@ Test e2e with java and playwright.
 
 ##  Let's Connect
 
-- GitHub (https://github.com/SunithaKottayil)
+- GitHub (https://github.com/magdaU)
 - LinkedIn (https://www.linkedin.com/in/magdalena-ukleja-qa/) 
-- Email (vgsuniashok@gmail.com)
-- Website (https://sunithakottayil.github.io/Sunitha-Kottayil.github.io/)
+- Email 
+- Website 
 
 ---
 
 ##  Personal Tagline
 
-**Data Enthusiast | Python programmor | Typescript   & C# Developer | Power BI Specialist | System Developer | Transforming Data into Stories**
+**Senior Test Enginner | Automation and Manual Testing | Java and Python Developer | SQL | Playwright | RestAssured **
 
 ---
 
