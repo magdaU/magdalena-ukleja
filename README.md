@@ -1,34 +1,39 @@
-######   Hi, I am Magdalena Ukleja
+#  Hi, I am Magdalena  Ukleja
 
-Welcome to my GitHub profile! I am a Senior QA Tester with experience in Software Development
+<img align="right" src="https://avatars.githubusercontent.com/u/2556789?s=400&v=4" width="150" />
+
+Welcome to my GitHub profile! I am a Senior QA tester and I have experience in software programming.
+
 ---
 
-######  Technologies & Tools
+##  Technologies & Tools
 
 - **Languages**: Python, Java, HTML, TypeScript  
 - **Frameworks & Tools**: Git, VS Code, GitHub  
-- **Environments**: Jupyter Notebook
 
-######   Featured Projects
-
-### [ Playwrigt test automation](https://github.com/magdaU/playwright-e2e-test-dulux)
-Test automation using Playwright
 
 ---
 
-######   Let's Connect
+##  Featured Projects
 
-- GitHub (https://github.com/magdaU))
-- LinkedIn (https://www.linkedin.com/in/magdalena-ukleja-qa/)) 
-- Email 
-- Website (/)
+### [ E2E Playwright test ](https://github.com/magdaU/playwright-e2e-test-dulux)
+Test e2e with java and playwright.
 
 ---
 
-######    Personal Tagline
+##  Let's Connect
 
-**QA Tester | Python programmor | Java Developer **
+- GitHub (https://github.com/SunithaKottayil)
+- LinkedIn (https://www.linkedin.com/in/magdalena-ukleja-qa/) 
+- Email (vgsuniashok@gmail.com)
+- Website (https://sunithakottayil.github.io/Sunitha-Kottayil.github.io/)
 
 ---
 
-Thanks for visiting!
+##  Personal Tagline
+
+**Data Enthusiast | Python programmor | Typescript   & C# Developer | Power BI Specialist | System Developer | Transforming Data into Stories**
+
+---
+
+> _Thanks for visiting! 
