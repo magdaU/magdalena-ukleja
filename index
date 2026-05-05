@@ -1,1 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QA Engineer Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #0f172a;
+      color: #e5e7eb;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    h1, h2 {
+      margin-top: 40px;
+    }
+
+    h1 {
+      font-size: 32px;
+      color: #60a5fa;
+    }
+
+    h2 {
+      font-size: 22px;
+      border-bottom: 2px solid #334155;
+      padding-bottom: 5px;
+      color: #93c5fd;
+    }
+
+    p {
+      margin: 10px 0;
+      color: #cbd5f5;
+    }
+
+    .section {
+      margin-bottom: 40px;
+    }
+
+    .skills span {
+      display: inline-block;
+      margin: 5px 10px 5px 0;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 14px;
+      background: #1e293b;
+      color: #93c5fd;
+      border: 1px solid #334155;
+    }
+
+    .project {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #1e293b;
+      border-left: 4px solid #60a5fa;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+      border-radius: 6px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .project:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.6);
+    }
+
+    a {
+      color: #60a5fa;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      margin-top: 50px;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Senior QA Engineer (Automation, Java)</h1>
+  <p>I build automated testing solutions that improve software quality and reduce release risk.</p>
+
+  <div class="section">
+    <h2>About</h2>
+    <p>
+      QA engineer focused on automation and quality engineering. I design maintainable test frameworks,
+      integrate them into CI/CD pipelines, and help teams deliver reliable software.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Tech Stack</h2>
+    <div class="skills">
+      <span>Java</span>
+      <span>Playwright</span>
+      <span>REST Assured</span>
+      <span>TestNG</span>
+      <span>JUnit</span>
+      <span>Jenkins</span>
+      <span>Git</span>
+      <span>Docker</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Projects</h2>
+
+    <div class="project">
+      <strong>Test Automation Framework Playwright</strong>
+      <p>
+        Designed and implemented a scalable test automation framework using Java, Playwright.
+      </p>
+      <ul>
+        <li>Reduced regression testing time</li>
+      </ul>
+    </div>
+
+
+  </div>
+
+  <div class="section">
+    <h2>Approach to QA</h2>
+    <p>
+      I treat quality as a shared responsibility. I focus on early testing, reducing flaky tests,
+      and building maintainable automation that delivers long-term value.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Contact</h2>
+    <p>GitHub: <a href="#">https://github.com/magdaU</a></p>
+    <p>LinkedIn: <a href="#">https://www.linkedin.com/in/magdalena-ukleja-qa/</a></p>
+  </div>
+
+  <div class="footer">
+    <p>© 2026 QA Engineer Portfolio</p>
+  </div>
+
+</body>
+</html>
 
