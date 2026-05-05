@@ -1,4 +1,4 @@
-# 🧪 QA Engineer | Automation (Java)
+# 🧪 Magdalena Ukleja QA Engineer | Automation (Java)
 
 Automation-focused QA Engineer building reliable test solutions for web and API applications.
 
