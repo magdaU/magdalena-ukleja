@@ -1,39 +1,28 @@
-#  Hi, I am Magdalena  Ukleja
+# 🧪 QA Engineer | Automation (Java)
 
-<img align="right" src="https://avatars.githubusercontent.com/u/2556789?s=400&v=4" width="150" />
-
-Welcome to my GitHub profile! I am a Senior QA tester and I have experience in software programming.
+Automation-focused QA Engineer building reliable test solutions for web and API applications.
 
 ---
 
-##  Technologies & Tools
-
-- **Languages**: Python, Java, HTML, TypeScript  
-- **Frameworks & Tools**: Git, VS Code, GitHub  
-
+### ⚙️ Tech Stack
+`Java` • `Playwright` • `REST Assured` • `TestNG` • `JUnit` • `Jenkins` • `Git`
 
 ---
 
-##  Featured Projects
-
-### [ E2E Playwright test ](https://github.com/magdaU/playwright-e2e-test-dulux)
-Test e2e with java and playwright.
-
----
-
-##  Let's Connect
-
-- GitHub (https://github.com/magdaU)
-- LinkedIn (https://www.linkedin.com/in/magdalena-ukleja-qa/) 
-- Email 
-- Website 
+### 🔍 What I Do
+- UI test automation  
+- API testing  
+- CI/CD integration  
+- Regression testing  
+- Improving test stability  
 
 ---
 
-##  Personal Tagline
-
-**Senior Test Enginner | Automation and Manual Testing | Java and Python Developer | SQL | Playwright | RestAssured **
+### 🎯 Focus
+Building scalable, maintainable, and stable test automation for real-world projects.
 
 ---
 
-> _Thanks for visiting! 
+### 📫 Contact
+🔗 GitHub: https://github.com/magdaU  
+💼 LinkedIn: https://www.linkedin.com/in/magdalena-ukleja-qa/
